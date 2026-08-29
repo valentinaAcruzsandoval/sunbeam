@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:blueviolet;
+    margin: 0.px; 
+    padding: 0;
+
+}
+.targeta{
+    
+    img{
+        max-width: 100%;
+        height:auto;
+        border: radius 50%;
+    }
+    hl{
+        color:rgb(228, 146, 187);
+        front-size:22px;
+
+    }
+    .subtitulo{
+        color: rgb(92, 15, 92);
+        font-weight: bold;
+    }
+
+    .a{
+        display: block;
+        background-color: purple;
+        color:aliceblue;
+        
+
+    }
+}
